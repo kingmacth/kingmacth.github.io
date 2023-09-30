@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.dadwj.com</id>
+    <title>大道无极博客</title>
+    <updated>2023-09-30T07:46:39.522Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://blog.dadwj.com"/>
+    <link rel="self" href="http://blog.dadwj.com/atom.xml"/>
+    <subtitle>人若无名，方可专心练剑</subtitle>
+    <logo>http://blog.dadwj.com/images/avatar.png</logo>
+    <icon>http://blog.dadwj.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, 大道无极博客</rights>
+    <entry>
+        <title type="html"><![CDATA[免费线上AI绘图“Tensor.art”可以直接使用全套 stable diffusion 模型，还有 ControNet功能，每天可以画100张图]]></title>
+        <id>http://blog.dadwj.com/post/mian-fei-xian-shang-ai-hui-tu-tensorartke-yi-zhi-jie-shi-yong-quan-tao-stable-diffusion-mo-xing-huan-you-contronet-gong-neng-mei-tian-ke-yi-hua-100-zhang-tu/</id>
+        <link href="http://blog.dadwj.com/post/mian-fei-xian-shang-ai-hui-tu-tensorartke-yi-zhi-jie-shi-yong-quan-tao-stable-diffusion-mo-xing-huan-you-contronet-gong-neng-mei-tian-ke-yi-hua-100-zhang-tu/">
+        </link>
+        <updated>2023-09-30T06:01:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>现在终于有人把整套 stable diffusion 搬到网站上面，你不用安装、也不用燃烧你的电脑显示卡，就能直接透过“Tensor.art”网站直接使用LoRA模型、SDXL..等。也有 ControNet 功能，可以指定图片人物中的姿势、或是最近很红的漂亮的二维码，还有光影文字..这些通通都可以透过这个网站达成。</p>
+<p>重点它还是中文版的“Tensor.art”几乎涵盖所有civitai网站的模型，你直接在这裡点选套用，就能直接使用图片中的提示词、跟负面提示词～你还可以再加入多个模型使用，创造你专属的模型！</p>
+<p>而且这个网站居然是免费的！每天可以让你生成100张图，还能直接转高清下载，或是修复面部！<br>
+话不多说赶快开始介绍～<br>
+送你免费算力，快来试试一键生图 https://tensor.art/images/643312154767960931?post_id=643312859138407248&amp;source_id=nzq1pl_kl0i1ovAob3799xkv</p>
+<p>9/7更新，“Tensor.art”网站出手机版了~~手机也可以用的AI绘图。<br>
+<img src="http://blog.dadwj.com/post-images/1696055066108.jpg" alt="" loading="lazy"></p>
+<h1 id="tensorart注册"><strong>Tensor.art注册</strong></h1>
+<p>我们直接到这个网站，点选右上方的地球图，先切换成中文版本!!<br>
+前往👉Tensor.art https://tensor.art/images/643312154767960931?post_id=643312859138407248&amp;source_id=nzq1pl_kl0i1ovAob3799xkv<br>
+然后点选右上角的登入符号<br>
+<img src="http://blog.dadwj.com/post-images/1696055238213.jpg" alt="" loading="lazy"><br>
+<img src="http://blog.dadwj.com/post-images/1696055241615.jpg" alt="" loading="lazy"><br>
+使用google帐号登入<br>
+<img src="http://blog.dadwj.com/post-images/1696055289807.jpg" alt="" loading="lazy"><br>
+然后改一下你的暱称，可以中文也可以英文<br>
+<img src="http://blog.dadwj.com/post-images/1696055323620.jpg" alt="" loading="lazy"><br>
+然后就可以开始用stable diffusion 模型了~<br>
+<img src="http://blog.dadwj.com/post-images/1696055347343.jpg" alt="" loading="lazy"><br>
+免费版本一天送你100点数，可以画100张图。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>现在终于有人把整套 stable diffusion 搬到网站上面，你不用安装、也不用燃烧你的电脑显示卡，就能直接透过“Tensor.art”网站直接使用LoRA模型、SDXL..等。也有 ControNet 功能，可以指定图片人物中的姿势、或是最近很红的漂亮的二维码，还有光影文字..这些通通都可以透过这个网站达成。</p>
+<p>重点它还是中文版的“Tensor.art”几乎涵盖所有civitai网站的模型，你直接在这裡点选套用，就能直接使用图片中的提示词、跟负面提示词～你还可以再加入多个模型使用，创造你专属的模型！</p>
+<p>而且这个网站居然是免费的！每天可以让你生成100张图，还能直接转高清下载，或是修复面部！<br>
+话不多说赶快开始介绍～<br>
+送你免费算力，快来试试一键生图 https://tensor.art/images/643312154767960931?post_id=643312859138407248&amp;source_id=nzq1pl_kl0i1ovAob3799xkv</p>
+<p>9/7更新，“Tensor.art”网站出手机版了~~手机也可以用的AI绘图。<br>
+<img src="http://blog.dadwj.com/post-images/1696055066108.jpg" alt="" loading="lazy"></p>
+<h1 id="tensorart注册"><strong>Tensor.art注册</strong></h1>
+<p>我们直接到这个网站，点选右上方的地球图，先切换成中文版本!!<br>
+前往👉Tensor.art https://tensor.art/images/643312154767960931?post_id=643312859138407248&amp;source_id=nzq1pl_kl0i1ovAob3799xkv<br>
+然后点选右上角的登入符号<br>
+<img src="http://blog.dadwj.com/post-images/1696055238213.jpg" alt="" loading="lazy"><br>
+<img src="http://blog.dadwj.com/post-images/1696055241615.jpg" alt="" loading="lazy"><br>
+使用google帐号登入<br>
+<img src="http://blog.dadwj.com/post-images/1696055289807.jpg" alt="" loading="lazy"><br>
+然后改一下你的暱称，可以中文也可以英文<br>
+<img src="http://blog.dadwj.com/post-images/1696055323620.jpg" alt="" loading="lazy"><br>
+然后就可以开始用stable diffusion 模型了~<br>
+<img src="http://blog.dadwj.com/post-images/1696055347343.jpg" alt="" loading="lazy"><br>
+免费版本一天送你100点数，可以画100张图。</p>
+<!-- more -->
+<h1 id="tensorart使用教学"><strong>Tensor.art使用教学</strong></h1>
+<p>在首页你就可以看到超多模型，几乎civitai网站的模型都有!!而且都可以直接透过线上直接运行，我们不用再下载模型，灌到电脑的stable diffusion跑，你直接按“使用”就能用该模型算图了。</p>
+<p>如果你电脑设备不错，也可以下载别人制作好的模型，在自己的电脑跑。<br>
+<img src="http://blog.dadwj.com/post-images/1696055635189.jpg" alt="" loading="lazy"><br>
+<img src="http://blog.dadwj.com/post-images/1696055643270.jpg" alt="" loading="lazy"><br>
+1.选择模型<br>
+我们可以在首页选择一个你喜欢的模型，然后点击进去。<br>
+先不要急著点运行!!<br>
+<img src="http://blog.dadwj.com/post-images/1696055666536.jpg" alt="" loading="lazy"><br>
+2.点选图片<br>
+我们点选图片，然后就会出现图片的咒语跟种子编号，我们点选“做同款”<br>
+<img src="http://blog.dadwj.com/post-images/1696055718901.jpg" alt="" loading="lazy"><br>
+3.功能介面<br>
+左手边你可以自行再添加LoRA风格，设定比重，提示词，这裡你最多可以添加4种混合使用风格~<br>
+<img src="http://blog.dadwj.com/post-images/1696055740967.jpg" alt="" loading="lazy"><br>
+设定图片大小，跟运行算法(使用DPM++2M karras模型 绘制出来的人物比较精美)<br>
+然后直接点击使用图片的种子编号!!(这样才能绘制类似原图的人物)<br>
+<img src="http://blog.dadwj.com/post-images/1696055761609.jpg" alt="" loading="lazy"><br>
+然后我会直接选择“高清修复”把这个打开，这样直接生成高清图，不用再2次转换。<br>
+建议ADetailer也可以打开，自动修复脸部与增加细节的外挂。<br>
+然后最下面设定图片数量，如果开了ADetailer，最多只能运算2张图片呦~<br>
+确定设置好了，他会显示会扣多少点数，一天有免费的100点，如果超过了，也没关係，换个google帐号再登入，又有100点可以用了，然后按下“生成”按钮<br>
+<img src="http://blog.dadwj.com/post-images/1696055799418.jpg" alt="" loading="lazy"><br>
+4.生成图片<br>
+效果非常的好，除了第三张…手指变成了四隻…<br>
+<img src="http://blog.dadwj.com/post-images/1696055826351.jpg" alt="" loading="lazy"><br>
+我们点选图片可以放大观看!!<br>
+<img src="http://blog.dadwj.com/post-images/1696055912930.jpg" alt="" loading="lazy"><br>
+这网站的缺点就是没有像 stable diffusion 的 inpaint 功能就是遮罩功能，没办法局部用笔刷涂抹，重新请AI绘制涂抹的部分，希望之后网站能完善这个功能!! 使用上就非常完美了~~</p>
+<p>把滑鼠移动到图片上，就会出现ADetailer修脸器，这裡也可以选择修脸、修手、修身体也是透过描述词修图，但是效果有限。</p>
+<p><img src="http://blog.dadwj.com/post-images/1696055944966.jpg" alt="" loading="lazy"><br>
+<img src="http://blog.dadwj.com/post-images/1696055950289.jpg" alt="" loading="lazy"><br>
+点选高清修复，可以放大图片</p>
+<p><img src="http://blog.dadwj.com/post-images/1696055971677.jpg" alt="" loading="lazy"><br>
+也有图生图功能<br>
+<img src="http://blog.dadwj.com/post-images/1696055995083.jpg" alt="" loading="lazy"><br>
+也可以直接下载图片保存，这网页生成的图片最多只能保存1个月~所以建议你生成图片后，如果有喜欢的就先保存下来，以免1个月后，他就会自动从系统删除了<br>
+<img src="http://blog.dadwj.com/post-images/1696056019217.jpg" alt="" loading="lazy"><br>
+我最喜欢的就是他可以混合风格使用，可以把混合不同的LoRA。<br>
+<img src="http://blog.dadwj.com/post-images/1696056041134.jpg" alt="" loading="lazy"><br>
+原图长这样<br>
+<img src="http://blog.dadwj.com/post-images/1696056066275.jpg" alt="" loading="lazy"><br>
+换了不同的LoRA模型，变成这样~超好玩!!(可能是之前的2G显卡都不能玩混合风格，现在终于实现了)<br>
+<img src="http://blog.dadwj.com/post-images/1696056090584.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+<h1 id="tensor-的-contronet-功能"><strong>Tensor 的 ControNet 功能</strong></h1>
+<p>接下来我们要来试试看Tensor 的 ControNet 功能，虽然没有 stable diffusion 的ControNet 功能这麽齐全，但是主流的改变姿势、制作AI二维码、跟文字光影还是有的。接下来，来教大家怎麽使用 ControNet 功能</p>
+<p>1.让模特儿摆出指定姿势(Openpose)<br>
+当我们绘制好一张图片后，然后在基础模型裡面找到“添加 ControNet ”<br>
+<img src="http://blog.dadwj.com/post-images/1696056187289.jpg" alt="" loading="lazy"><br>
+你可以看到有很多 ControNet 的功能~~我这裡只介绍最常用的3个功能，其他的大家可以自己测试看看<br>
+<img src="http://blog.dadwj.com/post-images/1696056207961.jpg" alt="" loading="lazy"><br>
+选择姿态生成(Openpose)，按下“使用”<br>
+<img src="http://blog.dadwj.com/post-images/1696056238177.jpg" alt="" loading="lazy"><br>
+底下已经有模特儿的姿势可以让你选，你也透过上传骨架的模型摆出你要的姿势，这裡不像stable diffusion 可以用滑鼠拖动关节改变姿势。如果没有你想要的姿势，你可以到这个网站，下载姿势模型https://openposes.com/<br>
+<img src="http://blog.dadwj.com/post-images/1696056292672.jpg" alt="" loading="lazy"><br>
+然后我们选择一个姿势按下确认。<br>
+<img src="http://blog.dadwj.com/post-images/1696056312188.jpg" alt="" loading="lazy"><br>
+我把一個正面插手的芭比。<br>
+<img src="http://blog.dadwj.com/post-images/1696056333955.jpg" alt="" loading="lazy"><br>
+换成侧面。<br>
+<img src="http://blog.dadwj.com/post-images/1696056357568.jpg" alt="" loading="lazy"><br>
+2.AI生成二维码<br>
+这个也超多人在用，可以将绘图与二维码结合~但是我实际测试使用…生成的二维码很漂亮但是无法扫<br>
+<img src="http://blog.dadwj.com/post-images/1696056386912.jpg" alt="" loading="lazy"><br>
+使用方式很简单，只需要上传二维码的图片。<br>
+<img src="http://blog.dadwj.com/post-images/1696056409436.jpg" alt="" loading="lazy"><br>
+然后你可以调整他的显示强度，我都调到最高了，但是算出来的二维码还是无法扫。点选“生成”<br>
+<img src="http://blog.dadwj.com/post-images/1696056430284.jpg" alt="" loading="lazy"><br>
+就能生成结合绘图的二维条码~(虽然不能扫)<br>
+<img src="http://blog.dadwj.com/post-images/1696056454386.jpg" alt="" loading="lazy"></p>
+<p>3.光影绘制<br>
+这也是我非常喜欢的功能，光影绘制<br>
+<img src="http://blog.dadwj.com/post-images/1696056475921.jpg" alt="" loading="lazy"><br>
+我们上传一张照片<br>
+<img src="http://blog.dadwj.com/post-images/1696056498254.jpg" alt="" loading="lazy"><br>
+控制图片这裡上传一个PNG的文字档<br>
+<img src="http://blog.dadwj.com/post-images/1696056526658.jpg" alt="" loading="lazy"><br>
+然后调整显示的参数，建议文字图档可以拉低一点<br>
+<img src="http://blog.dadwj.com/post-images/1696056565753.jpg" alt="" loading="lazy"><br>
+生成的台积电TSMC 效果很是不错吧~~~<br>
+<img src="http://blog.dadwj.com/post-images/1696056612355.jpg" alt="" loading="lazy"></p>
+<h1 id="结论"><strong>结论</strong></h1>
+<p>终于透过线上的网站，就能使用stable diffusion，你不用安装、也不用燃烧你的电脑显示卡，把电脑操得要死，直接透过“Tensor.art”网站就能玩SD，重点它还是中文版的，直接使用RoRA模型、SDXL..等。也有 ControNet 功能，可以指定图片人物中的姿势、或是最近很红的漂亮的二维码，还有光影文字..这些通通都可以透过这个网站达成。“Tensor.art”几乎涵盖所有civitai网站的模型，你直接在这裡点选套用，就能直接使用图片中的提示词、跟负面提示词～你还可以再加入多个模型使用，创造你专属的模型！</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个树莓派5的性能超过2个树莓派4]]></title>
+        <id>http://blog.dadwj.com/post/yi-ge-shu-mei-pai-5-de-xing-neng-chao-guo-2-ge-shu-mei-pai-4/</id>
+        <link href="http://blog.dadwj.com/post/yi-ge-shu-mei-pai-5-de-xing-neng-chao-guo-2-ge-shu-mei-pai-4/">
+        </link>
+        <updated>2023-09-29T12:40:56.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="http://blog.dadwj.com/post-images/1695991292369.webp" alt="" loading="lazy"><br>
+速度比两台树莓派4快的是什么？答案是全新的树莓派5。而且只需额外支付5美元（带有一个星号），它将成为英国树莓派计算机公司全新首选的单板计算机。但除了强大的速度之外，它还具备许多酷炫的功能，将使众多项目中的树莓派使用变得更加容易，计划于十月份上市销售。树莓派为我们提供了一台用于评估的设备，如果你正考虑购买一台需要更高速度的树莓派4，我们建议你等待几周，直到树莓派5上市销售。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="http://blog.dadwj.com/post-images/1695991292369.webp" alt="" loading="lazy"><br>
+速度比两台树莓派4快的是什么？答案是全新的树莓派5。而且只需额外支付5美元（带有一个星号），它将成为英国树莓派计算机公司全新首选的单板计算机。但除了强大的速度之外，它还具备许多酷炫的功能，将使众多项目中的树莓派使用变得更加容易，计划于十月份上市销售。树莓派为我们提供了一台用于评估的设备，如果你正考虑购买一台需要更高速度的树莓派4，我们建议你等待几周，直到树莓派5上市销售。</p>
+<!-- more -->
+<h1 id="两倍速度"><strong>两倍速度</strong></h1>
+<p>在基本上每个基准测试中，树莓派5的性能都比树莓派4快两到三倍。这要归功于全新的Broadcom BCM2712系统芯片（SOC），它以2.4 GHz的速度运行四个ARM A76内核，而不是树莓派4的1.8 GHz的ARM A72内核。这使得CPU的性能大致提升了2倍至3倍（尽管树莓派4在CM4包装中易于超频）。</p>
+<p>DRAM的时钟速度加倍。视频核心更加高效，像素处理速度大约提高了两倍。SOC中的新WiFi控制器允许相同无线电设备的吞吐量提高了大约两倍。甚至SD卡接口也能够以两倍的速度运行，加速引导时间，轻松在10秒内完成 - 也许更接近8秒，但谁在计数呢？</p>
+<p>此外，现在有两个MIPI相机/显示线，因此你可以直接从板子上进行立体成像，或者同时运行相机和外部显示器。它可以驱动两个60 Hz的4K HDMI显示器。</p>
+<p>整体性能提升的唯一两个例外是：首先，千兆以太网仍然是千兆以太网，所以这是一个例外。（我们不确定谁会受到这种限制的影响，但如果是你，你可能需要一个外部网络适配器。）但第二，新的Broadcom SOC终于支持ARM加密扩展，这使得AES的性能提高了45倍。由于几乎所有地方都使用了TLS，这可以防止加密性能成为瓶颈。不错。</p>
+<p>总之，与我们迄今为止看到的唯一正式基准测试完全一致，与树莓派4相比，几乎所有与性能相关的方面都翻了一番或减半，根据我们的非正式测试，整体感觉大约提高了两倍。与我经常在地下车间使用的Pi 400相比，Pi 5更加迅捷。</p>
+<h1 id="更多功率"><strong>更多功率！</strong></h1>
+<p>没有什么是免费的。虽然树莓派5对于相同的工作负载比树莓派4更高效，但你可以将它推得更猛烈。当你这样做时，它的功耗达到峰值12瓦，而树莓派4的功耗峰值为8瓦。这就是我们在开头提到的价格附加说明的地方。如果你的计算任务较重，你可能需要为板子提供更多电力，并找到如何处理板子产生的热量。</p>
+<p>首先说好消息。树莓派5具有全新的电源子系统，采用DA9091电源管理IC，可产生八个单独的电压，并能够为BCM2712 SoC提供20安培的电流。显然，这个芯片是树莓派和瑞萨合作开发的，因为他们可以将它融入进去。它还支持USB-C供电，因此寻找一个能够为Pi 5提供足够电力的电源适配器将更加容易，这在过去曾是一个痛点。我们永远不会再看到电力不足的警告了吗？我们可以梦想。</p>
+<p>新电源管理系统的明星是电源按钮。多少次我们见过电源按钮的黑科技？我们很高兴地告别了它们。</p>
+<p>现在说坏消息，在斯坦·李的不朽之词中说：“伴随着伟大的能力而来的是伟大的散热需求。”树莓派5运行时温度较高，可能需要散热片，甚至需要带风扇的主动散热解决方案。树莓派向我们提供了一个主动散热套件供测试，它插入到板子上的风扇头上，所以你知道他们是认真的。</p>
+<p>树莓派还重新设计了Pi 5的外壳，增加了一个带可拆卸盖子的风扇，以及底部的通风口。他们还没有忘记电源按钮——一块小亚克力既可以作为按钮盖又可以作为电源状态指示灯。不错。</p>
+<h1 id="pcie这次是真的"><strong>PCIe，这次是真的</strong></h1>
+<p>对于希望在台式电脑上使用树莓派5的人来说，最令人兴奋的新功能可能是对真正PCIe通道的官方支持。当树莓派4发布时，发现它在USB控制器和SOC之间通过PCIe通信，当然，首次在那时的Pi 4上看到了这一点。然后是CM4，强迫你自己设计板子，所以你可以在USB和PCIe之间进行选择。现在，有了树莓派5，你不必选择，也不必对其进行修改。</p>
+<p>但你需要一个适配器。一个PCIe 2.0通道被引出到一个扁平柔性连接器，从那里你需要一个适配器板将其连接到你有意使用的外设上。适配器很可能很快就会上市，但如果你实在等不及，我们有一个关于制作自己的PCIe设备的教程系列可供参考。</p>
+<p>一旦你搞清楚了连接，你可能还可以尝试将其提升到PCIe 3.0速度。[Jeff Geerling]从树莓派获得了一个预览硬件适配器，并发现虽然它没有获得PCIe 3.0认证，但在大多数情况下可以以这些速度工作。连接了一个NVMe硬盘后，他发现，使用经过批准的PCIe 2.0，他可以获得450 MB/秒的速度，通过在/boot/config.txt中更改一行，启用不支持的PCIe 3.0模式，然后祈祷，他几乎可以获得900 MB/秒的速度。这很容易。</p>
+<p>引擎盖下的RP1自定义控制器<br>
+电源供应调整，包括电源按钮，要归功于树莓派与瑞萨的合作。更多的计算性能来自Broadcom的新SOC。但像双MIPI连接器或具有足够带宽的双USB 3.0和USB 2.0端口，它们不会相互干扰或干扰其他任何外设的端口，都是树莓派自家创新的结果：自定义的RP1接口/南桥芯片。</p>
+<p>根据树莓派首席执行官Eben Upton的说法：“这基本上是芯片组架构：现在非常流行，但当我们在2016年启动RP1开发计划时，它是非常前瞻性的。”Broadcom以非常精细的特征尺寸制造SOC，而树莓派可以使用更大、更便宜的工艺来处理其余的部分：以太网、USB、MIPI、模拟视频输出、USART、I2C、I2S、PWM和GPIO——除了SDRAM、SD卡和HDMI之外的一切。</p>
+<p>树莓派5使用PCIe作为SOC与他们的RP1芯片之间的主干。准确地说，PCIe通道共有四个，提供了16 Gb/s的连接速度。这很有趣，因为大多数芯片组设计完全是专有的，两个芯片需要使用共同的机密语言进行通信。在这里，树莓派和Broadcom可以合作，但几乎保持了一定的距离，因为PCIe没有任何专有性。由于他们在SOC上有一个多余的PCIe通道，他们能够将其引出给最终用户。</p>
+<p>解焊RP1芯片，并放弃所有它提供的外围设备，适当地修改内核，并将Pi 5变成一个全PCIe、五通道的怪物，留作给有动力的读者来完成。</p>
+<h1 id="琐事"><strong>琐事</strong></h1>
+<p>树莓派5上的大黄色复合视频输出已经消失，但他们为你焊接了线路，以便你可以将其连接到除HDMI之外的其他设备上。旧的音频输出插孔已被彻底删除，因此如果你想要高保真音频，你可能不得不依赖于HDMI音频输出或HAT。其他连接包括四针头的PoE、三针头的ARM调试/UART和一个JST电池连接器，以保持实时时钟模块运行。</p>
+<p>由于你可能需要散热片，带风扇或不带风扇，他们在处理器周围增加了安装孔。出于空间原因，MIPI相机/显示扁平柔性连接器使用了我们在Pi Zero上看到的较薄的形状，而不是Pi 4上较宽的形状。</p>
+<h1 id="树莓派的演进"><strong>树莓派的演进</strong></h1>
+<p>在某种程度上，树莓派5是一小步的进展。两倍的速度提升不是什么小事，散落其中的各种生活质量改进都很不错，但从单板计算机市场的现状来看，这都不算革命。然而，与树莓派4相比，树莓派5至少好了两倍，而且只需少量的额外费用。如果回顾六个月前，人们为树莓派4支付了荒谬的溢价，那么树莓派5绝对是一笔划算的交易。虽然现在市场上有更快的Linux单板计算机，但它们也更贵，所以树莓派5的价值主张仍然很坚实。再加上树莓派的文档和软件支持，这里有很多值得喜欢的东西。</p>
+<p>它们还没有在商店里出售，但树莓派计划在2023年余下的时间里生产“略少于一百万”台树莓派5并上市销售，所以它们不会供不应求——我们希望如此！如果你需要更高的速度，并且能够处理高温，没有理由不去购买树莓派5。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>http://blog.dadwj.com/post/hello-gridea/</id>
+        <link href="http://blog.dadwj.com/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
